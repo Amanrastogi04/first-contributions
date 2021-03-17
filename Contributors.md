@@ -4,6 +4,7 @@
 - [Harsh Vishwakarma] (https://github.com/harsh256-code)
 - [Satvir Singh] (https://github.com/SatvirSingh98)
 - SH Park
+- Aman Rastogi (https://github.com/Amanrastogi04)
 - [Scott Pettyjohn] (https://github.com/scottpettyjohn)
 - [Atishay Jain] (https://github.com/atishayzn)
 - [Shah Fahad](https://github.com/shahfahad746)
